@@ -4,7 +4,7 @@ import Hero from "./assets/components/Hero";
 function App() {
   return (
     <>
-      <div className="bg-black text-white h-screen">
+      <div className="bg-black text-white h-screen font-noto">
         <Header />
         <Hero />
       </div>
